@@ -1,0 +1,367 @@
+ {
+    "code": 0,
+    "subcode": 0,
+    "message": "",
+    "default": 0,
+    "data": {
+        "topList": [
+            {
+                "id": 4,
+                "listenCount": 19700000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003BS0zG0lCQRu.jpg",
+                "songList": [
+                    {
+                        "singername": "薛之谦",
+                        "songname": "这么久没见"
+                    },
+                    {
+                        "singername": "TFBOYS",
+                        "songname": "第一次告白"
+                    },
+                    {
+                        "singername": "易烊千玺",
+                        "songname": "陷落美好"
+                    }
+                ],
+                "topTitle": "巅峰榜·流行指数",
+                "type": 0
+            },
+            {
+                "id": 26,
+                "listenCount": 19300000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002eJemF27bnYi.jpg",
+                "songList": [
+                    {
+                        "singername": "G.E.M. 邓紫棋",
+                        "songname": "画 (Live Piano Session Ⅱ)"
+                    },
+                    {
+                        "singername": "G.E.M. 邓紫棋",
+                        "songname": "差不多姑娘"
+                    },
+                    {
+                        "singername": "王力宏/谭维维",
+                        "songname": "缘分一道桥"
+                    }
+                ],
+                "topTitle": "巅峰榜·热歌",
+                "type": 0
+            },
+            {
+                "id": 27,
+                "listenCount": 1930000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000032DSjF3ntjhL.jpg",
+                "songList": [
+                    {
+                        "singername": "薛之谦",
+                        "songname": "这么久没见"
+                    },
+                    {
+                        "singername": "TFBOYS",
+                        "songname": "第一次告白"
+                    },
+                    {
+                        "singername": "薛之谦",
+                        "songname": "慢半拍"
+                    }
+                ],
+                "topTitle": "巅峰榜·新歌",
+                "type": 0
+            },
+            {
+                "id": 58,
+                "listenCount": 8141460,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000016PlMJ0faqe2.jpg",
+                "songList": [
+                    {
+                        "singername": "G.E.M. 邓紫棋",
+                        "songname": "差不多姑娘"
+                    },
+                    {
+                        "singername": "GAI/大痒痒",
+                        "songname": "哪吒"
+                    },
+                    {
+                        "singername": "永彬Ryan.B",
+                        "songname": "放个大招给你看"
+                    }
+                ],
+                "topTitle": "说唱榜",
+                "type": 0
+            },
+            {
+                "id": 57,
+                "listenCount": 2615600,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000009l2x72iCG8d.jpg",
+                "songList": [
+                    {
+                        "singername": "CORSAK/Robinson",
+                        "songname": "GLOW (Wiwek Remix)"
+                    },
+                    {
+                        "singername": "David Guetta/Aloe Blacc",
+                        "songname": "Never Be Alone (feat. Aloe Blacc)"
+                    },
+                    {
+                        "singername": "Alan Walker/Sabrina Carpenter/Farruko",
+                        "songname": "On My Way (Da Tweekaz Remix)"
+                    }
+                ],
+                "topTitle": "电音榜",
+                "type": 0
+            },
+            {
+                "id": 28,
+                "listenCount": 10936750,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001m6unf3tbmKm.jpg",
+                "songList": [
+                    {
+                        "singername": "苏晗",
+                        "songname": "离岸"
+                    },
+                    {
+                        "singername": "画词戏子",
+                        "songname": "把孤独当作晚餐"
+                    },
+                    {
+                        "singername": "威仔/阿夏",
+                        "songname": "青丝已泛白"
+                    }
+                ],
+                "topTitle": "巅峰榜·网络歌曲",
+                "type": 0
+            },
+            {
+                "id": 5,
+                "listenCount": 4412060,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001ROnJo2PnrUO.jpg",
+                "songList": [
+                    {
+                        "singername": "王源",
+                        "songname": "源"
+                    },
+                    {
+                        "singername": "薛之谦",
+                        "songname": "慢半拍"
+                    },
+                    {
+                        "singername": "张钰琪",
+                        "songname": "回答 (纯享版)"
+                    }
+                ],
+                "topTitle": "巅峰榜·内地",
+                "type": 0
+            },
+            {
+                "id": 3,
+                "listenCount": 10000000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000us7Sw1b4cS8.jpg",
+                "songList": [
+                    {
+                        "singername": "Taylor Swift",
+                        "songname": "The Archer"
+                    },
+                    {
+                        "singername": "Billie Eilish/Justin Bieber",
+                        "songname": "bad guy"
+                    },
+                    {
+                        "singername": "Shawn Mendes/Camila Cabello",
+                        "songname": "Señorita"
+                    }
+                ],
+                "topTitle": "巅峰榜·欧美",
+                "type": 0
+            },
+            {
+                "id": 59,
+                "listenCount": 2000000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003xzMP94Az0IS.jpg",
+                "songList": [
+                    {
+                        "singername": "G.E.M. 邓紫棋",
+                        "songname": "差不多姑娘"
+                    },
+                    {
+                        "singername": "陈奕迅",
+                        "songname": "相信你的人 (热血励志版)"
+                    },
+                    {
+                        "singername": "容祖儿",
+                        "songname": "明月"
+                    }
+                ],
+                "topTitle": "香港地区榜",
+                "type": 0
+            },
+            {
+                "id": 16,
+                "listenCount": 4157520,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001sMJwP3jqgEj.jpg",
+                "songList": [
+                    {
+                        "singername": "NCT DREAM (엔시티 드림)",
+                        "songname": "BOOM"
+                    },
+                    {
+                        "singername": "태연 (太妍)",
+                        "songname": "그대라는 시 (All about you)"
+                    },
+                    {
+                        "singername": "ITZY",
+                        "songname": "ICY"
+                    }
+                ],
+                "topTitle": "巅峰榜·韩国",
+                "type": 0
+            },
+            {
+                "id": 60,
+                "listenCount": 19521264,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003JbKCe056kBd.jpg",
+                "songList": [
+                    {
+                        "singername": "G.E.M. 邓紫棋",
+                        "songname": "画 (Live Piano Session Ⅱ)"
+                    },
+                    {
+                        "singername": "太一",
+                        "songname": "Lutra"
+                    },
+                    {
+                        "singername": "潘玮柏/G.E.M. 邓紫棋/艾热",
+                        "songname": "攀登 (Live)"
+                    }
+                ],
+                "topTitle": "抖音排行榜",
+                "type": 0
+            },
+            {
+                "id": 29,
+                "listenCount": 1990000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000033xX5j1JxTwZ.jpg",
+                "songList": [
+                    {
+                        "singername": "张碧晨",
+                        "songname": "今后我与自己流浪"
+                    },
+                    {
+                        "singername": "GAI/大痒痒",
+                        "songname": "哪吒"
+                    },
+                    {
+                        "singername": "胡夏",
+                        "songname": "如果当时"
+                    }
+                ],
+                "topTitle": "巅峰榜·影视金曲",
+                "type": 0
+            },
+            {
+                "id": 17,
+                "listenCount": 1496923,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001LURzo2ddN6i.jpg",
+                "songList": [
+                    {
+                        "singername": "End of the World (世界の終わり)/Clean Bandit",
+                        "songname": "Lost"
+                    },
+                    {
+                        "singername": "あいみょん",
+                        "songname": "真夏の夜の匂いがする (仲夏夜的气息)"
+                    },
+                    {
+                        "singername": "米津玄師 (よねづ けんし)",
+                        "songname": "海の幽霊 (海之幽灵)"
+                    }
+                ],
+                "topTitle": "巅峰榜·日本",
+                "type": 0
+            },
+            {
+                "id": 201,
+                "listenCount": 3912540,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002j0uWM42YO7L.jpg",
+                "songList": [
+                    {
+                        "singername": "蔡徐坤",
+                        "songname": "YOUNG"
+                    },
+                    {
+                        "singername": "薛之谦",
+                        "songname": "这么久没见"
+                    },
+                    {
+                        "singername": "黄子韬",
+                        "songname": "AI"
+                    }
+                ],
+                "topTitle": "巅峰榜·MV",
+                "type": 0
+            },
+            {
+                "id": 52,
+                "listenCount": 515573,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003SUKMT0Qz0w9.jpg",
+                "songList": [
+                    {
+                        "singername": "莫非定律More Feel",
+                        "songname": "一次性劫难"
+                    },
+                    {
+                        "singername": "陈思键",
+                        "songname": "我长了树"
+                    },
+                    {
+                        "singername": "一棵小葱/李宗南",
+                        "songname": "风陵渡"
+                    }
+                ],
+                "topTitle": "巅峰榜·腾讯音乐人原创榜",
+                "type": 0
+            },
+            {
+                "id": 36,
+                "listenCount": 1980000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003mfDq41ZwbMd.jpg",
+                "songList": [
+                    {
+                        "singername": "熙月月",
+                        "songname": "缘分一道桥"
+                    },
+                    {
+                        "singername": "朴爱源",
+                        "songname": "来自天堂的魔鬼"
+                    },
+                    {
+                        "singername": "麓七",
+                        "songname": "情深深雨蒙蒙"
+                    }
+                ],
+                "topTitle": "巅峰榜·K歌金曲",
+                "type": 0
+            },
+            {
+                "id": 61,
+                "listenCount": 667660,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000023WV7A44uGLL.jpg",
+                "songList": [
+                    {
+                        "singername": "杨宗纬",
+                        "songname": "是缘"
+                    },
+                    {
+                        "singername": "张信哲",
+                        "songname": "没资格难过"
+                    },
+                    {
+                        "singername": "梁静茹",
+                        "songname": "慢冷"
+                    }
+                ],
+                "topTitle": "台湾地区榜",
+                "type": 0
+            }
+        ]
+    }
+}
